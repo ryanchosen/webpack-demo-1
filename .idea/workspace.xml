@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1e6237b4-f311-4007-a417-94a321bedb3d" name="默认更改列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +29,18 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ryan\Desktop\webpack-demo-1\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ryan\Desktop\webpack-demo-1" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -37,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605753050255</updated>
-      <workItem from="1605753051787" duration="4000000" />
+      <workItem from="1605753051787" duration="24855000" />
     </task>
     <servers />
   </component>
@@ -45,9 +58,25 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="836" y="377" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605844108308">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="836" y="377" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605844108308" />
+    <state x="552" y="303" key="EditFileWatcherDialog" timestamp="1605844059920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="303" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605844059920" />
     <state x="540" y="254" key="IDE.errors.dialog" timestamp="1605753112671">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="254" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605753112671" />
+    <state x="538" y="164" key="SettingsEditor" timestamp="1605844033912">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="538" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605844033912" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605767709064">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605767709064" />
   </component>
 </project>

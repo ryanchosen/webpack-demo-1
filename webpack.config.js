@@ -1,13 +1,24 @@
 var HtmlWebpackPlugin = require('html-webpack-plugin');
 var path = require('path');
+const MiniCssExtractPlugin = require('mini-css-extract-plugin');
+const base =require('./webpack.config.base.js')
 
-module.exports={
+module.exports = {
+    ...base, // 继承自base
     mode: "development",
-    entry:'./src/index.js',
-    output:{
-        filename: '[name].[contenthash].js'
+    devtool: 'inline-source-map',
+    devServer: {
+        contentBase: './dist'
     },
-    plugins: [new HtmlWebpackPlugin({title: '我就试试而已啦啦啦',template: './src/test.html'})],
+    module: {
+        rules: [
+            ...base.module.rules,
+            {
+                test: /\.css$/,
+                use: ['style-loader','css-loader']
+            }
+        ]
+    }
 }
 
 
