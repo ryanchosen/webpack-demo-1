@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{5:function(n,o,t){"use strict";t.r(o),o.default=function(){alert("你去network里观察，这段js后期才加载的，这才叫懒加载")}}}]);
